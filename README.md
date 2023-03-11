@@ -4,8 +4,13 @@ I made a quick project for connecting to SolisCloud API.
 
 Big thank you to https://github.com/hultenvp/solis-sensor for a nice example to use while figuring out how to connect with C#
 
-How to get access:
+
+
 ------------------
+
+
+##How to get access to SolisCloud:
+
 [SolisCloud](https://www.soliscloud.com/) is the next generation Portal for Solis branded PV systems from Ginlong. It's unknown to me if the other brands are also supported.
 
 The new portal requires a key-id, secret and username to function. You can obtain key and secret via SolisCloud.
