@@ -1,4 +1,4 @@
-# SolisApiTest
+# SolisApiTest in C#
 
 I made a quick project for connecting to SolisCloud API.
 
