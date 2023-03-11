@@ -9,7 +9,7 @@ Big thank you to https://github.com/hultenvp/solis-sensor for a nice example to 
 ------------------
 
 
-##How to get access to SolisCloud:
+## How to get access to SolisCloud:
 
 [SolisCloud](https://www.soliscloud.com/) is the next generation Portal for Solis branded PV systems from Ginlong. It's unknown to me if the other brands are also supported.
 
