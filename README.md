@@ -6,7 +6,7 @@ Big thank you to https://github.com/hultenvp/solis-sensor for a nice example to 
 
 How to get access:
 ------------------
-SolisCloud is the next generation Portal for Solis branded PV systems from Ginlong. It's unknown to me if the other brands are also supported.
+[SolisCloud](https://www.soliscloud.com/) is the next generation Portal for Solis branded PV systems from Ginlong. It's unknown to me if the other brands are also supported.
 
 The new portal requires a key-id, secret and username to function. You can obtain key and secret via SolisCloud.
 
