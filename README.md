@@ -10,7 +10,7 @@ SolisCloud is the next generation Portal for Solis branded PV systems from Ginlo
 
 The new portal requires a key-id, secret and username to function. You can obtain key and secret via SolisCloud.
 
-Submit a service ticket and wait till it is resolved.
+Submit a [service ticket](https://solis-service.solisinverters.com/support/solutions/articles/44002212561-api-access-soliscloud) and wait till it is resolved.
 Go to https://www.soliscloud.com/#/apiManage.
 Activate API management and agree with the usage conditions.
 After activation, click on view key tot get a pop-up window asking for the verification code.
